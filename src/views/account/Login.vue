@@ -1,6 +1,9 @@
 <template>
   <div class="page-login">
-    登录页
+    <a-button type="primary">登录</a-button>
+    <a-layout>
+      gggggggggggg
+    </a-layout>
   </div>
 </template>
 
